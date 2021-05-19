@@ -1,0 +1,87 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.title {
+  text-align: center;
+}
+.sub_title {
+  text-align: center;
+}
+.main {
+  border-radius: 15px;
+  box-shadow: 2px 2px 2px 3px rgba(160, 32, 240, 1);
+  width: 80%;
+  margin: 7.5% auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.origin_title {
+  margin: 10px auto;
+}
+
+.destino_title {
+  margin: 10px auto;
+}
+
+.plan_title {
+  margin: 10px auto;
+}
+
+.tempo_title {
+  margin: 10px auto;
+}
+
+.origin {
+  width: 20%;
+  margin: 0 auto;
+}
+
+.destino {
+  width: 20%;
+  margin: 0 auto;
+}
+
+.plano {
+  width: 20%;
+  margin: 0 auto;
+}
+
+.tempo {
+  width: 20%;
+  margin: 0 auto;
+}
+
+.com_plano {
+  position: absolute;
+  margin: 290px 10px 5px 5px;
+}
+
+.com_plano_result {
+  position: absolute;
+  margin: 325px 10px 5px 5px;
+}
+
+.sem_plano {
+  position: absolute;
+  margin: 290px 5px 5px 850px;
+}
+
+.sem_plano_result {
+  position: absolute;
+  margin: 325px 5px 5px 850px;
+}
+.btn_calcular {
+  border-radius: 15px;
+  background-color: blueviolet;
+  font-size: 20px;
+  font-weight: bolder;
+  width: 20%;
+  margin: 50px auto;
+}
+
+.footer {
+  text-align: center;
+}
