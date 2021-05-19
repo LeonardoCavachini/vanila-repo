@@ -4,10 +4,10 @@
 
 ## Tabela de conteúdos
 
-- [Sobre](https://github.com/LeonardoCavachini/Api-project-frontend#Sobre)
-- [Instalação](https://github.com/LeonardoCavachini/Api-project-frontend#Instalação)
-- [Como-usar](https://github.com/LeonardoCavachini/Api-project-frontend#Como-usar)
-- [Tecnologias](https://github.com/LeonardoCavachini/Api-project-frontend#Tecnologias)
+- [Sobre](https://github.com/LeonardoCavachini/FaleMais_project.git#Sobre)
+- [Instalação](https://github.com/LeonardoCavachini/FaleMais_project.git#Instalação)
+- [Como-usar](https://github.com/LeonardoCavachini/FaleMais_project.git#Como-usar)
+- [Tecnologias](https://github.com/LeonardoCavachini/FaleMais_project.git#Tecnologias)
 
 ## Sobre
 
