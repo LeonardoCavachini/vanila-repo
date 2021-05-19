@@ -5,9 +5,11 @@
 
 .title {
   text-align: center;
+  color: #9932cc;
 }
 .sub_title {
   text-align: center;
+  color: #9400d3;
 }
 .main {
   border-radius: 15px;
@@ -20,18 +22,22 @@
 
 .origin_title {
   margin: 10px auto;
+  color: #8a2be2;
 }
 
 .destino_title {
   margin: 10px auto;
+  color: #8a2be2;
 }
 
 .plan_title {
   margin: 10px auto;
+  color: #8a2be2;
 }
 
 .tempo_title {
   margin: 10px auto;
+  color: #8a2be2;
 }
 
 .origin {
@@ -57,21 +63,25 @@
 .com_plano {
   position: absolute;
   margin: 290px 10px 5px 5px;
+  color: #9370db;
 }
 
 .com_plano_result {
   position: absolute;
   margin: 325px 10px 5px 5px;
+  color: #a020f0;
 }
 
 .sem_plano {
   position: absolute;
   margin: 290px 5px 5px 850px;
+  color: #9370db;
 }
 
 .sem_plano_result {
   position: absolute;
   margin: 325px 5px 5px 850px;
+  color: #a020f0;
 }
 .btn_calcular {
   border-radius: 15px;
@@ -84,4 +94,29 @@
 
 .footer {
   text-align: center;
+  color: #9932cc;
+}
+
+@media only screen and (max-width: 64rem) {
+  .com_plano {
+    font-size: 100%;
+  }
+
+  .com_plano_result {
+    font-size: 100%;
+  }
+
+  .sem_plano {
+    margin: 290px 5px 5px 50%;
+    font-size: 100%;
+  }
+
+  .sem_plano_result {
+    margin: 325px 5px 5px 50%;
+    font-size: 100%;
+  }
+  .btn_calcular {
+    width: 30%;
+    margin: 30% 20% 5% 35%;
+  }
 }

@@ -30,5 +30,5 @@ Ao iniciar a pagina terá um pequeno formulario onde você colocara todas as inf
 Tecnologias utilizadas para construção da aplicação:
 
 - css
-- JavasCript
+- JavaScript
 - html
